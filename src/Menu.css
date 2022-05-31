@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Koulen&display=swap');
+
+.menu{
+
+    background: #933999;
+    display: flex;
+    justify-content: space-between;
+    padding: 25px;
+    color: white;
+    font-size: 25px;
+    font-family: 'Koulen', cursive;
+
+}
+
+img {
+
+    width: 9%;
+
+}
+
+a{
+
+    color: white;
+    margin: 10px;
+    margin-top: 1120px;
+    text-decoration: none;
+    text-align: center;
+
+}

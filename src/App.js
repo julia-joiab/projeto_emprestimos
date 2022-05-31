@@ -1,4 +1,5 @@
 import React from 'react';
+import Menu from './Menu';
 
 function App () {
 
@@ -8,8 +9,7 @@ function App () {
 
         <div>
 
-            <h1>oi</h1>
-            <button> enter </button>
+            <Menu/>
 
         </div>
     );
@@ -17,4 +17,5 @@ function App () {
 }
 export default App;
 
-/// Cor amarela: #daa520
+/// Cor amarela: #daa520;
+/// Cor roxa: #933999;
